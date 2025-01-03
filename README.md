@@ -28,6 +28,12 @@ It’s easy and it’s fun.
 
 Fontstruct is copyright ©2019-2025 Rob Meek
 
+## Sources?
+
+Fontstruct allows only to export the font as a file for GlyphApp, which I do not have as it's paid and only available on MacOS,
+so I can't have a look at it. That's why they aren't available on this repo. If you want these sources files, contact me by mail
+(see my [GitHub profile page](https://github.com/Corne2Plum3))
+
 ## Legal Notice
 
 In using this font you must comply with the licensing terms described in the
