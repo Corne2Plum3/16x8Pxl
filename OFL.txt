@@ -1,5 +1,4 @@
-﻿Copyright (c) 2019-2025,  “corne2plum3”
-(https://fontstruct.com/fontstructors/1686402/corne2plum3)
+﻿Copyright 2019-2025 The 16x8Pxl Project Authors (https://github.com/Corne2Plum3/16x8Pxl)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
